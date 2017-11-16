@@ -12,7 +12,7 @@ The SECOND ONE and OLDEST ONE consists on 300k appointments during 2014 and 2015
 
 This is the POA:
 
-1. Collect data. I have two sources: Kaggle with the already mentioned 110k rows and the weather for the smae period that I obtained scraping the web. I am applied the same criteria for the second set of data. There is a process of combining and merging dataframes.
+1. Collect data. I have two sources: Kaggle with the already mentioned 110k plus 300k rows and the weather for the same period that I obtained scraping the web. There is a process of combining and merging dataframes.
 2. EDA. This phase includes the common tasks during featuring engineering: getting rid of nuls, dummies, outliers, errors and creation of new features.
 3. Desing and application of the model. I am open to all classifiers but I am actually pretty curios to see how XGBoost works. I will develop one model for the 2016 set and then will try to find out another one for 2014-2015 in case the key features are the ones that are not present in the second one.
 4. Analysis and exposition of the results.
