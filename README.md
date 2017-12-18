@@ -16,6 +16,6 @@ This is the POA:
 2. EDA. This phase includes the common tasks during featuring engineering: getting rid of nuls (none), dummies, outliers, errors and creation of new features. Interesting part
 3. Design and application of the model. I tried most of the classifiers available to me just for fun. I selected 2 of them as a finallist: Neural Networks(Keras) and Gradient Boost Classifiero. 
 4. Tunning and tweaking the model. I tried SMOTE, PCA and gridsearch through hyperparameters to try to improve my score.
-4. Analysis and exposition of the results. THe metrics are accuracy and the False Positive Rate
+4. Analysis and exposition of the results. The metrics are accuracy and the False Positive Rate
 
 With no more delay, I am proceeding. I will publish my notebooks following the same order than my POA. the titles of my notebooks should be self-explanatory but I will also numbered them just in case.
